@@ -1,0 +1,36 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: rgb(2, 11, 10);
+  background: linear-gradient(90deg, rgba(2, 11, 10, 1) 2%, rgba(233, 238, 18, 0.8855917366946778) 28%);
+  ;
+}
+
+
+
+.way {
+  justify-content: center;
+  align-items: center;
+}
+
+.rar {
+  /* background-color: black; */
+  
+  border-radius: 10%;
+  filter: drop-shadow(0 -8mm 14mm rgb(2,11,18,0.885591))
+}
+
+.text {
+  background-color: yellow;
+  background: rgb(2, 11, 10);
+  background: linear-gradient(90deg, rgba(2, 11, 10, 1) 2%, rgba(233, 238, 18, 0.8855917366946778) 28%);
+}
+
+#photoh {
+  border-radius: 50%;
+  filter: drop-shadow(0 -6mm 4mm rgb(160, 0, 210));
+}
+
+
